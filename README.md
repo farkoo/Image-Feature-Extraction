@@ -11,7 +11,11 @@ When performing deep learning feature extraction, we treat the pre-trained netwo
 <p align=center>
 <img src="https://www.pyimagesearch.com/wp-content/uploads/2019/05/transfer_learning_keras_feature_extract.png">
 </p>
-  
+
+*Left:* The original VGG16 network architecture that outputs probabilities for each of the 1,000 ImageNet class labels. 
+
+*Right:* Removing the FC layers from VGG16 and instead returning the final POOL layer. This output will serve as our extracted features.
+
  
 ## Support
 
