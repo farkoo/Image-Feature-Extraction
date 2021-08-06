@@ -9,7 +9,23 @@ Feature extraction involves reducing the number of resources required to describ
 When performing deep learning feature extraction, we treat the pre-trained network as an arbitrary feature extractor, allowing the input image to propagate forward, stopping at pre-specified layer, and taking the outputs of that layer as our features.
 
 <p align=center>
-<src img="https://www.pyimagesearch.com/wp-content/uploads/2019/05/transfer_learning_keras_feature_extract.png">
+<img src="https://www.pyimagesearch.com/wp-content/uploads/2019/05/transfer_learning_keras_feature_extract.png">
 </p>
   
  
+## Support
+
+**Contact me @:**
+
+e-mail:
+
+* farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+## License
+[MIT](https://github.com/farkoo/Image-Feature-Extraction/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/farkoo)
